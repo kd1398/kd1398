@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kinjal Doshi</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kd1398&label=Profile%20views&color=0e75b6&style=flat" alt="kd1398" /> </p>
+
 
 - 🌱 I’m currently learning **Spring Boot, React Js, React Native**
 
